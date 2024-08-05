@@ -1,0 +1,31 @@
+:root {
+    --cor-principal:#BAE62F;
+}
+
+body {
+    font-size: large;
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: var(--cor-principal);
+    text-align: center;
+}
+
+#titulo {
+    font-size: x-large;
+    font-family: 'Trebuchet MS', sans-serif;
+    background-color: var(--cor-principal);
+    text-align: center;
+}
+
+#paragrafo {
+    text-align:left;
+    font-size: large;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+#imagemprincipal {
+    display:inline-block;
+    width: 50%;
+    height: 50%;
+    
+   }
+   
